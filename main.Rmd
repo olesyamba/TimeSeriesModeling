@@ -20,7 +20,7 @@ library("vars")
 library(AER)
 library(lubridate)
 
-data = read.csv("data_exam_ts.csv")
+data = read.csv("data.csv")
 data = as.xts(data[, -c(1, 2)], order.by = as.Date(data$date))
 colnames(data) = c('Apple', 'Copart_inc')
 is.null(data)
