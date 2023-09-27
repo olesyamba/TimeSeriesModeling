@@ -1,4 +1,4 @@
-# **TimeSeriesModeling** <img src="edit1.0.png" width="50" height="50">
+# **TimeSeriesModeling** <img src=https://github.com/olesyamba/ICvsML/assets/118986574/d30608ef-c708-46d3-96b4-97be0ce6bdc9 alt="drawing" width="50" />
 ### Keywords 
 R programming | time series | stationarity | vector autoregressive model | cointegration | heteroscedasticity | robust check
 ### Purpose
